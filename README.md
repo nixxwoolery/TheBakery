@@ -1,33 +1,46 @@
+# The Bakery at Fairview Website
+
+Welcome to The Bakery at Fairview's website repository!
+
 ## Welcome! 👋
 
 Thanks for checking out my repo.
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+## Table of Contents
 
-## Overview
+- [About the Project](#about-the-project)
+  - [Overview](#overview)
+  - [Goals](#goals)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [License](#license)
 
-## The challenge
+## About the Project
 
-I was asked by a client to build a beautiful, user-friendly and responsive website that was a good representation of their brand, and which would allow users to:
+### Overview
 
-- View the optimal layout for the business' offerings online regardless of their device's screen size,
-- Experience fun interactions while navigating the website,
-- Easily view the business' menu and offerings,
-- Easily find and contact the business to mae orders.
+The Bakery at Fairview website is a project that aims to create a delightful online experience for our bakery customers. As a software engineer, I was tasked with building a beautiful, user-friendly, and responsive website that aligns with our brand values and meets specific business goals.
 
-## My Process
+### Goals
 
-I designed the website
+The key objectives of this project included:
+
+- Creating a visually appealing website that represents The Bakery at Fairview's brand.
+- Ensuring a responsive design for an optimal viewing experience on various devices.
+- Implementing engaging user interactions for seamless navigation.
+- Displaying our bakery's menu and offerings in an organized and user-friendly manner.
+- Providing easy access to contact information for placing orders.
+
+## Technologies Used
+
+This project was built using the following technologies:
+
+- HTML5
+- CSS3 with custom properties
+- Flexbox and CSS Grid for layout design
+- JavaScript for interactivity
+- A mobile-first development approach for responsiveness
+
 
 ### The Design
 
@@ -63,17 +76,14 @@ const proudOfThisFunc = () => {
 };
 ```
 
-### Useful resources
+## Features
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+Responsive design for all device screen sizes.
+Engaging user interactions.
+Menu and offerings display.
+Contact information for placing orders.
 
 ## Author
 
 - Website - [Nicolette Woolery](https://www.nicolettewoolery.com)
-- Instagram - [@codingwithnixx](https://www.twitter.com/codingwithnixx)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-# TheBakery
+- Instagram - [@codingwithnixx](https://www.instagram.com/nixxintech)
