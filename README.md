@@ -23,7 +23,7 @@ Thanks for checking out my repo.
 
 ### Overview
 
-The Bakery at Fairview website is a project that aims to create a delightful online experience for the bakery customers. As a software engineer, I was tasked with building a beautiful, user-friendly, and responsive website that aligns with brand values and meets specific business goals.
+The Bakery at Fairview website is a project that aims to create a delightful online experience for the bakery's customers. As a software engineer, I was tasked with building a beautiful, user-friendly, and responsive website that aligns with brand values and meets specific business goals.
 
 ### Goals
 
